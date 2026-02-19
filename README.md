@@ -6,17 +6,17 @@ Ao longo das próximas atividades, você deverá cumprir uma série de missões 
 Cada desafio concluído representa uma conquista na sua jornada.
 
 #### Suas missões são:
-- **Relâmpago** - Consiga uma pontuação superior a 40 no site Monkeytype.
+- **Dedo Relâmpago** - Consiga uma pontuação superior a 40 no site Monkeytype.
 
 - **Nota 1000** - Tire nota 10 em qualquer avaliação (9,5 também conta).
 
 - **Verdadeiro Presente** - Chegue ao último mês de aula com frequência igual ou superior a 90%.
 
-- **Conexão Suprema** - Inscreva-se no meu canal do YouTube.
+- **Conexão Suprema** - Inscreva-se no meu [canal do YouTube](https://www.youtube.com/@shionnS20).
 
 - **Mãos ao Alto** - Faça uma pergunta durante alguma explicação.
 
-- **Poliglota** - Consiga uma ofensiva de 12 dias no Duolingo.
+- **올빼미** - Consiga uma ofensiva de 15 dias no Duolingo.
 
 - **Mágico** - Resolva o cubo mágico em menos de 5 minutos, é permitido qualquer cola manuscrita.
 
