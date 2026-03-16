@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Desafio Shionn</title>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+<style>
+
+:root{
+--primary:#ff58ae;
+--bg:#ffffff;
+--text:#1a1a1a;
+--soft:#f5f5f7;
+}
+
+*{
+box-sizing:border-box;
+margin:0;
+padding:0;
+}
+
+body{
+font-family:"Inter",system-ui;
+background:var(--bg);
+color:var(--text);
+line-height:1.6;
+}
+
+main{
+max-width:640px;
+margin:auto;
+padding:28px 20px 80px;
+}
+
+header{
+margin-bottom:40px;
+}
+
+h1{
+font-size:2.2rem;
+font-weight:700;
+letter-spacing:-0.5px;
+margin-bottom:10px;
+}
+
+h1 span{
+color:var(--primary);
+}
+
+.intro{
+font-size:1rem;
+opacity:.85;
+}
+
+.section-title{
+margin-top:40px;
+margin-bottom:16px;
+font-weight:600;
+font-size:.95rem;
+letter-spacing:.08em;
+text-transform:uppercase;
+color:var(--primary);
+}
+
+.missions{
+display:flex;
+flex-direction:column;
+gap:14px;
+}
+
+.mission{
+padding:14px 16px;
+border-left:3px solid transparent;
+background:var(--soft);
+font-size:.95rem;
+transition:.2s;
+}
+
+.mission strong{
+display:block;
+font-weight:600;
+margin-bottom:2px;
+}
+
+.mission:hover{
+border-left:3px solid var(--primary);
+background:#fff0f7;
+}
+
+.mission a{
+color:var(--primary);
+text-decoration:none;
+font-weight:500;
+}
+
+.mission a:hover{
+text-decoration:underline;
+}
+
+.info{
+margin-top:36px;
+font-size:.95rem;
+opacity:.9;
+}
+
+blockquote{
+margin-top:60px;
+font-size:.9rem;
+padding-left:16px;
+border-left:3px solid var(--primary);
+opacity:.75;
+}
+
+footer{
+margin-top:40px;
+font-size:.85rem;
+opacity:.6;
+}
+
+@media(min-width:800px){
+
+main{
+padding-top:60px;
+}
+
+h1{
+font-size:2.6rem;
+}
+
+.mission{
+font-size:1rem;
+}
+
+}
+
+</style>
+</head>
+
+<body>
+
+<main>
+
+<header>
+<h1>🏆 <span>Desafio Shionn</span></h1>
+
+<p class="intro">
+Você foi oficialmente recrutado para participar do desafio.
+Nas próximas semanas, uma sequência de missões irá testar sua lógica,
+persistência e curiosidade.
+</p>
+</header>
+
+<div class="section-title">Missões</div>
+
+<section class="missions">
+
+<div class="mission">
+<strong>Dedo Relâmpago</strong>
+Consiga uma pontuação superior a 40 no site Monkeytype.
+</div>
+
+<div class="mission">
+<strong>Nota 1000</strong>
+Tire nota 10 em qualquer avaliação (9,5 também conta).
+</div>
+
+<div class="mission">
+<strong>Verdadeiro Presente</strong>
+Chegue ao último mês de aula com frequência igual ou superior a 90%.
+</div>
+
+<div class="mission">
+<strong>Conexão Suprema</strong>
+Inscreva-se no meu 
+<a href="https://www.youtube.com/@shionnS20" target="_blank">canal do YouTube</a>.
+</div>
+
+<div class="mission">
+<strong>Mãos ao Alto</strong>
+Faça uma pergunta durante alguma explicação.
+</div>
+
+<div class="mission">
+<strong>올빼미</strong>
+Consiga uma ofensiva de 15 dias no Duolingo.
+</div>
+
+<div class="mission">
+<strong>Mágico</strong>
+Resolva o cubo mágico em menos de 5 minutos. É permitido qualquer cola manuscrita.
+</div>
+
+<div class="mission">
+<strong>Último a Ir Embora</strong>
+Venha para o último dia de aula da disciplina.
+</div>
+
+</section>
+
+<div class="info">
+Sempre que uma missão for cumprida, apresente-se ao professor e receba sua marca de vitória.
+<br><br>
+Ao conquistar todas as oito marcas, um verdadeiro prêmio será concedido ao campeão do <strong>Desafio Shionn</strong>.
+</div>
+
+<blockquote>
+O Desafio Shionn foi criado com o propósito de estimular o desenvolvimento integral do estudante, incentivando disciplina, autonomia, curiosidade intelectual e constância nos estudos. Cada missão fortalece habilidades como foco, participação ativa, prática contínua, organização e superação de desafios.
+</blockquote>
+
+<footer>
+Feito com ❤️ pelo Professor Lucas Eduardo Batista Ferreira
+</footer>
+
+</main>
+
+</body>
+</html>
